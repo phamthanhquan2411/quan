@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\obj\Debug\tinhtiendien.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\obj\Debug\tinhtiendien.Properties.Resources.resources
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\obj\Debug\tinhtiendien.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\obj\Debug\tinhtiendien.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\bin\Debug\tinhtiendien.exe.config
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\bin\Debug\tinhtiendien.exe
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\bin\Debug\tinhtiendien.pdb
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\obj\Debug\tinhtiendien.exe
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\obj\Debug\tinhtiendien.pdb
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\obj\Debug\tinhtiendien.bt_.resources
+C:\Users\Hp\source\repos\tinhtiendien\tinhtiendien\obj\Debug\tinhtiendien.Form2.resources
